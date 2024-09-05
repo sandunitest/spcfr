@@ -1,0 +1,142 @@
+2024-09-04 15:02:02,617 [main] INFO spc - URL is opened
+2024-09-04 15:03:46,662 [main] INFO spc - URL is opened
+2024-09-04 15:12:49,353 [main] INFO spc - URL is opened
+2024-09-04 15:43:06,706 [main] INFO spc - URL is opened
+2024-09-04 15:47:01,559 [main] INFO spc - URL is opened
+2024-09-04 15:47:01,833 [main] INFO spc - Entered username
+2024-09-04 15:47:01,945 [main] INFO spc - Entered password
+2024-09-04 15:58:52,956 [main] INFO spc - URL is opened
+2024-09-04 15:58:53,224 [main] INFO spc - Entered username
+2024-09-04 15:58:53,349 [main] INFO spc - Entered password
+2024-09-04 15:59:18,767 [main] INFO spc - URL is opened
+2024-09-04 15:59:19,064 [main] INFO spc - Entered username
+2024-09-04 15:59:19,216 [main] INFO spc - Entered password
+2024-09-04 16:00:15,765 [main] INFO spc - URL is opened
+2024-09-04 16:00:16,079 [main] INFO spc - Entered username
+2024-09-04 16:00:16,211 [main] INFO spc - Entered password
+2024-09-04 16:04:24,292 [main] INFO spc - URL is opened
+2024-09-04 16:04:24,570 [main] INFO spc - Entered username
+2024-09-04 16:04:24,687 [main] INFO spc - Entered password
+2024-09-04 16:12:11,817 [main] INFO spc - URL is opened
+2024-09-04 16:12:12,093 [main] INFO spc - Entered username
+2024-09-04 16:12:12,222 [main] INFO spc - Entered password
+2024-09-04 16:16:51,146 [main] INFO spc - URL is opened
+2024-09-04 16:16:51,437 [main] INFO spc - Entered username
+2024-09-04 16:16:51,556 [main] INFO spc - Entered password
+2024-09-04 16:19:21,239 [main] INFO spc - URL is opened
+2024-09-04 16:19:21,549 [main] INFO spc - Entered username
+2024-09-04 16:19:21,699 [main] INFO spc - Entered password
+2024-09-04 16:21:52,216 [main] INFO spc - URL is opened
+2024-09-04 16:21:52,492 [main] INFO spc - Entered username
+2024-09-04 16:21:52,608 [main] INFO spc - Entered password
+2024-09-04 16:21:55,681 [main] INFO spc - Login test passed
+2024-09-05 09:56:12,181 [main] INFO spc - URL is opened
+2024-09-05 09:56:12,456 [main] INFO spc - Entered username
+2024-09-05 09:56:12,571 [main] INFO spc - Entered password
+2024-09-05 09:56:15,664 [main] INFO spc - Login test passed
+2024-09-05 10:00:26,291 [main] INFO spc - URL is opened
+2024-09-05 10:00:26,569 [main] INFO spc - Entered username
+2024-09-05 10:00:26,682 [main] INFO spc - Entered password
+2024-09-05 10:00:29,767 [main] INFO spc - Login test passed
+2024-09-05 10:00:34,842 [main] INFO spc - User name is provided
+2024-09-05 10:00:34,960 [main] INFO spc - Passsword is provided
+2024-09-05 10:24:44,378 [main] INFO spc - URL is opened
+2024-09-05 10:24:44,657 [main] INFO spc - Entered username
+2024-09-05 10:24:44,788 [main] INFO spc - Entered password
+2024-09-05 10:24:47,873 [main] INFO spc - Login test passed
+2024-09-05 10:24:53,037 [main] INFO spc - User name is provided
+2024-09-05 10:24:53,171 [main] INFO spc - Passsword is provided
+2024-09-05 10:24:56,983 [main] INFO spc - new email form open
+2024-09-05 10:35:33,831 [main] INFO spc - URL is opened
+2024-09-05 10:35:34,107 [main] INFO spc - Entered username
+2024-09-05 10:35:34,217 [main] INFO spc - Entered password
+2024-09-05 10:35:37,309 [main] INFO spc - Login test passed
+2024-09-05 10:35:42,330 [main] INFO spc - User name is provided
+2024-09-05 10:35:42,452 [main] INFO spc - Passsword is provided
+2024-09-05 10:35:45,670 [main] INFO spc - new email form open
+2024-09-05 10:39:01,465 [main] INFO spc - URL is opened
+2024-09-05 10:39:01,729 [main] INFO spc - Entered username
+2024-09-05 10:39:01,855 [main] INFO spc - Entered password
+2024-09-05 10:39:04,956 [main] INFO spc - Login test passed
+2024-09-05 10:39:09,870 [main] INFO spc - User name is provided
+2024-09-05 10:39:10,015 [main] INFO spc - Passsword is provided
+2024-09-05 10:39:13,276 [main] INFO spc - new email form open
+2024-09-05 10:39:16,376 [main] INFO spc - enter ref no
+2024-09-05 15:33:18,910 [main] INFO spc - URL is opened
+2024-09-05 15:33:19,174 [main] INFO spc - Entered username
+2024-09-05 15:33:19,280 [main] INFO spc - Entered password
+2024-09-05 15:33:22,377 [main] INFO spc - Login test passed
+2024-09-05 15:33:27,560 [main] INFO spc - User name is provided
+2024-09-05 15:33:27,702 [main] INFO spc - Passsword is provided
+2024-09-05 15:33:30,927 [main] INFO spc - new email form open
+2024-09-05 15:33:34,038 [main] INFO spc - enter ref no
+2024-09-05 15:34:57,183 [main] INFO spc - User name is provided
+2024-09-05 15:34:57,330 [main] INFO spc - Passsword is provided
+2024-09-05 15:35:00,554 [main] INFO spc - new email form open
+2024-09-05 15:35:03,675 [main] INFO spc - enter ref no
+2024-09-05 15:40:45,702 [main] INFO spc - URL is opened
+2024-09-05 15:40:45,990 [main] INFO spc - Entered username
+2024-09-05 15:40:46,115 [main] INFO spc - Entered password
+2024-09-05 15:40:49,203 [main] INFO spc - Login test passed
+2024-09-05 15:40:54,322 [main] INFO spc - User name is provided
+2024-09-05 15:40:54,452 [main] INFO spc - Passsword is provided
+2024-09-05 15:40:57,682 [main] INFO spc - new email form open
+2024-09-05 15:41:00,803 [main] INFO spc - enter ref no
+2024-09-05 15:41:05,922 [main] INFO spc - enter from person
+2024-09-05 15:41:11,072 [main] INFO spc - enter header
+2024-09-05 15:41:16,163 [main] INFO spc - select first drop down value as None
+2024-09-05 16:08:36,198 [main] INFO spc - URL is opened
+2024-09-05 16:08:36,506 [main] INFO spc - Entered username
+2024-09-05 16:08:36,637 [main] INFO spc - Entered password
+2024-09-05 16:08:39,739 [main] INFO spc - Login test passed
+2024-09-05 16:08:44,897 [main] INFO spc - User name is provided
+2024-09-05 16:08:45,014 [main] INFO spc - Passsword is provided
+2024-09-05 16:08:48,239 [main] INFO spc - new email form open
+2024-09-05 16:08:51,345 [main] INFO spc - enter ref no
+2024-09-05 16:08:56,475 [main] INFO spc - enter from person
+2024-09-05 16:09:01,597 [main] INFO spc - enter header
+2024-09-05 16:09:06,635 [main] INFO spc - select first drop down value as None
+2024-09-05 16:09:11,722 [main] INFO spc - select second  drop down value as None
+2024-09-05 16:10:30,458 [main] INFO spc - URL is opened
+2024-09-05 16:10:30,729 [main] INFO spc - Entered username
+2024-09-05 16:10:30,865 [main] INFO spc - Entered password
+2024-09-05 16:10:33,963 [main] INFO spc - Login test passed
+2024-09-05 16:10:39,138 [main] INFO spc - User name is provided
+2024-09-05 16:10:39,250 [main] INFO spc - Passsword is provided
+2024-09-05 16:10:42,505 [main] INFO spc - new email form open
+2024-09-05 16:10:45,612 [main] INFO spc - enter ref no
+2024-09-05 16:10:50,764 [main] INFO spc - enter from person
+2024-09-05 16:10:55,931 [main] INFO spc - enter header
+2024-09-05 16:11:00,971 [main] INFO spc - select first drop down value as None
+2024-09-05 16:11:06,019 [main] INFO spc - select second  drop down value as None
+2024-09-05 22:46:22,548 [main] INFO spc - URL is opened
+2024-09-05 22:46:22,843 [main] INFO spc - Entered username
+2024-09-05 22:46:22,971 [main] INFO spc - Entered password
+2024-09-05 22:46:26,121 [main] INFO spc - Login test passed
+2024-09-05 22:46:31,160 [main] INFO spc - User name is provided
+2024-09-05 22:46:31,294 [main] INFO spc - Passsword is provided
+2024-09-05 22:46:34,533 [main] INFO spc - new email form open
+2024-09-05 22:46:37,655 [main] INFO spc - enter ref no
+2024-09-05 22:46:42,792 [main] INFO spc - enter from person
+2024-09-05 22:46:47,940 [main] INFO spc - enter header
+2024-09-05 22:46:53,029 [main] INFO spc - select first drop down value as None
+2024-09-05 22:48:51,992 [main] INFO spc - URL is opened
+2024-09-05 22:48:52,301 [main] INFO spc - Entered username
+2024-09-05 22:48:52,414 [main] INFO spc - Entered password
+2024-09-05 22:48:55,577 [main] INFO spc - Login test passed
+2024-09-05 22:49:00,768 [main] INFO spc - User name is provided
+2024-09-05 22:49:00,911 [main] INFO spc - Passsword is provided
+2024-09-05 22:49:04,160 [main] INFO spc - new email form open
+2024-09-05 22:49:07,257 [main] INFO spc - enter ref no
+2024-09-05 22:49:12,391 [main] INFO spc - enter from person
+2024-09-05 22:49:17,525 [main] INFO spc - enter header
+2024-09-06 00:42:56,425 [main] INFO spc - URL is opened
+2024-09-06 00:42:56,636 [main] INFO spc - Entered username
+2024-09-06 00:42:56,734 [main] INFO spc - Entered password
+2024-09-06 00:42:59,866 [main] INFO spc - Login test passed
+2024-09-06 00:43:05,255 [main] INFO spc - User name is provided
+2024-09-06 00:43:05,369 [main] INFO spc - Passsword is provided
+2024-09-06 00:43:08,656 [main] INFO spc - new email form open
+2024-09-06 00:43:11,759 [main] INFO spc - enter ref no
+2024-09-06 00:43:16,862 [main] INFO spc - enter from person
+2024-09-06 00:43:21,996 [main] INFO spc - enter header
